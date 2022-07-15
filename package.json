@@ -1,5 +1,5 @@
 {
-  "name": "editorjs-tooltip",
+  "name": "miguelnietoa-editorjs-tooltip",
   "version": "1.1.5",
   "keywords": [
     "tool",
@@ -17,17 +17,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kommitters/editorjs-tooltip.git"
+    "url": "https://github.com/miguelnietoa/editorjs-tooltip.git"
   },
   "author": {
-    "name": "kommitters Open Source",
+    "name": "miguelnietoa Open Source",
     "email": "oss@kommit.co"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kommitters/editorjs-tooltip/issues"
+    "url": "https://github.com/miguelnietoa/editorjs-tooltip/issues"
   },
-  "homepage": "https://github.com/kommitters/editorjs-tooltip#readme",
+  "homepage": "https://github.com/miguelnietoa/editorjs-tooltip#readme",
   "devDependencies": {
     "@babel/core": "^7.15.5",
     "@babel/preset-env": "^7.15.6",
